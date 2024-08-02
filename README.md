@@ -5,6 +5,9 @@
 Spark - a tiny web framework for Java 8
 ==============================================
 
+** Reason for forking **
+We use SparkJava framework in our projects. However, the website is currently down and I need a place to keep the keep the documentation and also maintain the repository moving forward.
+
 **Spark 2.9.4 is out!!**
 ```xml
 <dependency>
